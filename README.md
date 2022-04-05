@@ -1,5 +1,5 @@
 # Investigate A Relational Database - Sakila DVD Rental Database
-Udacity Project to Investigate Sakila Database
+Udacity Project to Investigate Sakila DVD Rental Database
 
 ### Date created
 November 4, 2021
